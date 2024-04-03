@@ -11,7 +11,7 @@ Includes the following features:
 To use this project, follow these steps:
 
 1. Clone the repository to your local machine:
-   Replace `https://github.com/Hamad-Anwar/Messenger-App-Backend-Firebase` with the URL of this GitHub repository.
+   Replace `https://github.com/Hardikkareliya/offline-notes-application.git` with the URL of this GitHub repository.
 
 2. Install Flutter:
    Ensure you have Flutter installed on your machine. If not, follow the instructions on the [official Flutter website](https://flutter.dev/docs/get-started/install) to set it up.
