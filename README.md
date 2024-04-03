@@ -23,10 +23,10 @@ To use this project, follow these steps:
    Connect a physical device or use an emulator and make sure turn off your internet and wifi connection then run the app using the following command: flutter run --release
 
 7. Test the App:
-   Add, Edit Delete note and also check with connectivity(Turn on Wifi or Mobile Data and check Notes is sync with local json file)
+   Add, Edit Delete note and also check with connectivity(Turn on Wifi or Mobile Data and check Notes is sync with local json file).
 
 
-##Packages Used
+## Packages Used
 The Offline Note App is built using Flutter, a powerful open-source UI software development toolkit. The following packages were utilized to enhance various aspects of the App:
 
 - [hive](https://pub.dev/packages/hive): Hive is a lightweight and blazing fast key-value database written in pure Dart.
